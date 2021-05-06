@@ -1,0 +1,33 @@
+.heading{
+font-size: 25px;
+width:90%;
+}
+.heading div{
+float:none;
+border-radius: 20px;
+width: 85%;
+
+}
+
+.heading_div2{
+ font-size: 18px;
+ color:white;
+ background-color: yellowgreen;
+}
+.button{
+font-size: 18px;
+}
+
+.footer_div{
+position :fixed;
+text-align: center;
+bottom: 0;
+background-color: blueviolet;
+color:white;
+width: 100%;
+height: 3%;
+}
+canvas{
+border: 3px solid darkgray;
+margin-top: 130px;
+}
